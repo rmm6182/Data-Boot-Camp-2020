@@ -1,0 +1,2 @@
+CMD
+cd %HOMEPATH%
